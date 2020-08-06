@@ -1,5 +1,3 @@
-## Hi guys! Welcome to my profile!
+## Behold... a work in progress
 
-I'm a fourth year Mathematics major and Statistics minor in the Faculty of Arts at the University of British Columbia.
-
-Please note that this is still a work in progress.
+I'm Ken Mawer, a fourth year Mathematics major and Statistics minor in the Faculty of Arts at the University of British Columbia.
