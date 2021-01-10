@@ -2,4 +2,4 @@
 
 Behold my work in progress
 
-![Crude chart of M/F ratio of exchanges](https://i.imgur.com/BmBmf1S.png)
+![Crude chart of M/F ratio of exchanges](https://i.imgur.com/OL9tsK9.png)
