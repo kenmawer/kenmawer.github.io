@@ -1,3 +1,2 @@
-# kenmawer.github.io
-Portfolio
-Hi, I'm Ken.
+# Ken Mawer
+UWaterloo MMath Statistics Candidate 2024
