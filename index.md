@@ -1,5 +1,5 @@
-## Behold... a work in progress
+## Ken Mawer
 
-I am Ken Mawer, a fourth year Mathematics major and Statistics minor in the Faculty of Arts at the University of British Columbia, aspiring to be a data analyst.
+I am Ken Mawer, and upcoming Master of Mathematics in Statistics student at the University of Waterloo.
 
-I was raised in Toyko and am at Vancouver for university; I am both Japanese and Canadian.
+I did my undergraduate at the University of British Columbia, where I graduated with of a Bachelor of Arts, major in Mathematics and minor in Statistics. I completed the co-op program and earned a high distintion.
