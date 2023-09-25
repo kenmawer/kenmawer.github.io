@@ -1,5 +1,5 @@
 ## Ken Mawer
 
-I am Ken Mawer, and upcoming Master of Mathematics in Statistics student at the University of Waterloo.
+I am Ken Mawer, a Master of Mathematics in Statistics student at the University of Waterloo who is set to graduate in August 2024.
 
-I did my undergraduate at the University of British Columbia, where I graduated with of a Bachelor of Arts, major in Mathematics and minor in Statistics. I completed the co-op program and earned a high distintion.
+I did my undergraduate at the University of British Columbia, where I graduated with of a Bachelor of Arts, major in Mathematics and minor in Statistics in May 2023. I completed the co-op program and earned a high distintion. I also spent a semester on exchange at the University of New South Wales in Sydney, Australia.
