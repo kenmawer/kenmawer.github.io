@@ -2,6 +2,8 @@
 
 ![Photo of Ken with Opera House in the background](KenOperaHouse.jpg)
 
+<img src="KenOperaHouse.jpg" width="200">
+
 I am Ken Mawer, a Master of Mathematics in Statistics student at the University of Waterloo who is set to graduate in August 2024.
 
 I did my undergraduate at the University of British Columbia, where I graduated with of a Bachelor of Arts, major in Mathematics and minor in Statistics in May 2023. I completed the co-op program and earned a high distintion.
