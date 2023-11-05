@@ -1,6 +1,6 @@
 ## Ken Mawer
 
-(KenOperaHouse.jpg)
+![Photo of Ken with Opera House in the background](KenOperaHouse.jpg)
 
 I am Ken Mawer, a Master of Mathematics in Statistics student at the University of Waterloo who is set to graduate in August 2024.
 
