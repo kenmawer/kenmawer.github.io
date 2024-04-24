@@ -1,1 +1,9 @@
-theme: jekyll-theme-slate
+# Site configuration
+title: Ken Mawer
+author:
+  name: Ken Mawer
+  email: kmawer@uwaterloo.ca
+description: MMath Statistics Student at UWaterloo
+
+# Build settings
+remote_theme: jekyll/minima
