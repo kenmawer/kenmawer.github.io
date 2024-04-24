@@ -1,5 +1,3 @@
-## Ken Mawer
-
 <img src="KenOperaHouse.jpg" width="360" class="center">
 
 ### About
