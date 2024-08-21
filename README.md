@@ -1,2 +1,2 @@
 # Ken Mawer
-UWaterloo MMath Statistics Candidate 2024
+UWaterloo PhD Statistics Candidate
