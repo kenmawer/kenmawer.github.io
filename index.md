@@ -2,7 +2,9 @@
 
 ### About
 
-I am Ken (he/him), a Master of Mathematics Statistics student at the University of Waterloo who is set to graduate in August 2024. I am under the supervision of Michael Wallace for the research paper, where my topic is on precision medicine when accounting for incomplete adherence. Read more [here](https://uwaterloo.ca/math/profiles/ken-mawer).
+I am Ken (he/him), a PhD Biostatistics student at the University of Waterloo under the supervision of Michael Wallace and Paul Marriott.
+
+I completed an MMath in Statistics at the University of Waterloo under the supervision of Michael Wallace for the research paper, where my topic was on precision medicine when accounting for incomplete adherence. Read more about my program experience [here](https://uwaterloo.ca/math/profiles/ken-mawer).
 
 I did my undergraduate at the University of British Columbia, where I graduated with of a Bachelor of Arts, major in Mathematics, minor in Statistics in May 2023. I completed the co-op program and earned a high distintion.
 
