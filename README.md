@@ -1,2 +1,2 @@
 # Ken Mawer
-UWaterloo PhD Statistics Candidate
+UWaterloo PhD Statistics (Biostatistics) Candidate
