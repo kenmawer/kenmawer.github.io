@@ -1,4 +1,4 @@
-<img src="KenOperaHouse.jpg" width="360" class="center">
+<img src="KenWarwick.jpg" width="480" class="center">
 
 ### About
 
@@ -9,3 +9,5 @@ I completed an MMath in Statistics at the University of Waterloo under the super
 I did my undergraduate at the University of British Columbia, where I graduated with of a Bachelor of Arts, major in Mathematics, minor in Statistics in May 2023. I completed the co-op program and earned a high distintion.
 
 I also spent a semester on exchange at the University of New South Wales in Sydney, Australia. Read more about my experience [here](https://www.student.unsw.edu.au/canada-australia-my-exchange-journey-unsw)!
+
+Outside of my research, I also perform [stand-up comedy](https://www.instagram.com/kenthecomedian).
