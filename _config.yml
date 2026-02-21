@@ -3,7 +3,13 @@ title: Ken Mawer
 author:
   name: Ken Mawer
   email: kmawer@uwaterloo.ca
-description: PhD Statistics (Biostatistics) Student at UWaterloo
 
-# Build settings
+description: PhD Statistics (Biostatistics) Student at UWaterloo
+url: "https://kenmawer.github.io"
+
+google_site_verification: -pVJOFLekcYLquqMjmOyOKLyGyw61YSU0XjlYmbjTNs
+
 remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-seo-tag
