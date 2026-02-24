@@ -10,4 +10,4 @@ I did my undergraduate at the University of British Columbia, where I graduated 
 
 I also spent a semester on exchange at the University of New South Wales in Sydney, Australia. Read more about my experience [here](https://www.student.unsw.edu.au/canada-australia-my-exchange-journey-unsw).
 
-Outside of my research, I also perform [stand-up comedy](https://www.instagram.com/kenthecomedian). There's more to PhD life than research!
+Outside of my research, I also perform [stand-up comedy](https://www.instagram.com/kenthecomedian). There is way more to PhD life than research!
