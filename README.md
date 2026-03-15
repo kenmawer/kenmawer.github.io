@@ -1,2 +1,2 @@
 # Ken Mawer
-UWaterloo PhD Statistics (Biostatistics) Candidate
+I'm a UWaterloo PhD Statistics (Biostatistics) Candidate. Thank you for dropping by!
