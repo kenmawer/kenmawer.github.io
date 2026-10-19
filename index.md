@@ -10,4 +10,14 @@ I did my undergraduate at the University of British Columbia, where I graduated 
 
 I also spent a semester on exchange at the University of New South Wales in Sydney, Australia. Read more about my experience [here](https://www.student.unsw.edu.au/canada-australia-my-exchange-journey-unsw).
 
-Outside of my research, I also perform [stand-up comedy](https://www.instagram.com/kenthecomedian). There is way more to PhD life than research!
+There's way more to PhD life than research! Here are some fun facts about me:
+
+- I was born in Tokyo, Japan and lived there for almost 18 years before going to Canada for university.
+
+- I've been to 16 countries, with the most unique one being Nepal. (No, I didn't climb to the top of Everest, as it's very expensive, and I could die!)
+
+- My favourite music artists are Billy Talent, Smash into Pieces, Barenaked Ladies, Rise Against, The Friday Night Boys, Disturbed and Alan Walker.
+
+- Speaking of which, I've gone to two Billy Talent concerts, both on July 18 and the last destinations for the tours. The first of which was in 2022 in Vancouver (after two postponements for COVID-related reasons), and the second was in 2026 in Toronto.
+
+- I also perform [stand-up comedy](https://www.instagram.com/kenthecomedian).
