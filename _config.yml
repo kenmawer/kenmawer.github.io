@@ -14,7 +14,4 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-seo-tag
 
-exclude:
-  - feed.xml
-
 theme_mode: dark
