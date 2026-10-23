@@ -18,6 +18,6 @@ There's way more to PhD life than research! Here are some fun facts about me:
 
 - My favourite music artists are Billy Talent, Smash into Pieces, Barenaked Ladies, Rise Against, The Friday Night Boys, Disturbed and Alan Walker.
 
-- Speaking of which, I've gone to two Billy Talent concerts, both on July 18 and the last destinations for the tours. The first of which was in 2022 in Vancouver (after two postponements for COVID-related reasons), and the second was in 2026 in Toronto.
+- Speaking of which, I've gone to two Billy Talent concerts, both on July 18 and the last destinations for the tours. The first was in 2022 in Vancouver (after two postponements for COVID-related reasons), and the second was in 2026 in Toronto.
 
 - I also perform [stand-up comedy](https://www.instagram.com/kenthecomedian).
