@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am Ken (he/him), a PhD Statistics (Biostatistics option) student at the University of Waterloo under the supervision of Michael Wallace and Paul Marriott. My research interests are causal inference, precision medicine and measurement error.
+I'm Ken (he/him), a PhD Statistics (Biostatistics option) student at the University of Waterloo under the supervision of Michael Wallace and Paul Marriott. My research interests are causal inference, precision medicine and measurement error.
 
 I completed an MMath in Statistics at the University of Waterloo under the supervision of Michael Wallace for the research paper, where my topic was on precision medicine when accounting for incomplete adherence. Read more about my program experience [here](https://uwaterloo.ca/math/profiles/ken-mawer).
 
