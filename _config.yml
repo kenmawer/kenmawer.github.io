@@ -15,3 +15,5 @@ plugins:
   - jekyll-seo-tag
 
 feed: disabled: true
+
+theme_mode: dark
