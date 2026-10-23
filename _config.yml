@@ -14,4 +14,8 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-seo-tag
 
-theme_mode: dark
+minima:
+  skin: dark
+  hide_site_feed_link: true
+  nav_pages:
+    - about.md
